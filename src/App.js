@@ -1,4 +1,4 @@
-import AddUser from './components/UI/users/AddUser';
+import AddUser from './components/Users/AddUser';
 
 function App() {
   return (
